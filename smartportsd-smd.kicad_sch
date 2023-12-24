@@ -6,8 +6,8 @@
 
   (title_block
     (title "SmartPortSD SMD")
-    (date "2023-12-04")
-    (rev "v1.0")
+    (date "2023-12-07")
+    (rev "v1.1")
     (company "Chris Tersteeg")
   )
 
@@ -3729,7 +3729,7 @@
     (property "Value" "DB19_Plug" (at 41.91 116.84 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Tersteeg:DSUB-19_Male_Vertical_P2.77x2.84mm_MountingHoles" (at 41.91 138.43 0)
+    (property "Footprint" "Tersteeg:DSUB-19_Male_Vertical_P2.77x2.84mm_Narrow_MountingHoles" (at 41.91 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 41.91 138.43 0)

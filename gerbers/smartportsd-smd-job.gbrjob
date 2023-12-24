@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2023-12-04T13:48:36-06:00"
+    "CreationDate": "2023-12-07T13:52:13-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "smartportsd-smd",
       "GUID": "736d6172-7470-46f7-9274-73642d736d64",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
-      "X": 45.528,
-      "Y": 52.247
+      "X": 41.074,
+      "Y": 50.1371
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.127,
-      "PadToTrack": 0.127,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.508,
