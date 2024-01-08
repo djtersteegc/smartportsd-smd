@@ -1,2 +1,2 @@
-# smartportsd-smd
-SMD version of the SmartPort SD Apple II disk emulator
+Contents of this repo has been combined with my original Nano based design in https://github.com/djtersteegc/smartportsd
+
